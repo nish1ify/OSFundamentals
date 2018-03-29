@@ -1,0 +1,10 @@
+1480963461868	Move compilation units
+1480984954319	Rename field 'vectorList'
+1480985020132	Rename field 'masterList'
+1480985052884	Rename field 'blockMappings'
+1480986721435	Rename local variable 'vector'
+1480986769239	Rename local variable 'n2'
+1480989023810	Rename field 'directoryEntries'
+1480992248650	Rename field 'masterFileList'
+1480994343727	Rename field 'pageSize'
+1480994378213	Rename field 'directorySize'
